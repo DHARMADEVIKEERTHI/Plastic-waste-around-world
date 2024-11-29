@@ -14,5 +14,5 @@ Coastal_Waste_Risk: Level of risk posed by plastic waste to coastal areas, categ
 
 **Understanding:** I am explaining this as supervised learning(Classification) based on recycling_rate and coastal_waste_risk. Otherwise It has Unsupervised Learning.
 
-###Depending Variable: In the dataset we focusing on Coastal_waste_risk column and Recycling_rate.
+**Depending Variable:** In the dataset we focusing on Coastal_waste_risk column and Recycling_rate.
 Independent Variable: Other factors like Country, Total_plastic_waste_MT, Main_Sources, Per_capita_waste_KG
